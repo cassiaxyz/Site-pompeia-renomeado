@@ -1,2 +1,2 @@
 # Site-Pompeia
- Divulgação do conteúdo
+ divulgar conteudo
